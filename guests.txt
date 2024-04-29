@@ -1,0 +1,4 @@
+Forename Surname, Date of Birth, Room Booked, Bill, Service Booked(, Service Booked...),
+Forename Surname,24/5/00,27,0,Breakfast,Cleaner,
+Forename Surname2,24/5/02,22,0,Breakfast,Dinner,
+Forename Surname3,24/5/03,23,0,Cleaner,
